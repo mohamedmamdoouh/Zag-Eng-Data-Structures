@@ -1,6 +1,6 @@
 #include <iostream>
-#include <algorithm> // For std::max and std::min
-#include <stdexcept> // For std::out_of_range
+#include <algorithm>
+#include <stdexcept>
 using namespace std;
 
 class DynamicArray {
